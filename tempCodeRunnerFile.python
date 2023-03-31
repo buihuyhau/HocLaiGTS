@@ -1,0 +1,5 @@
+def Phi(x):
+    print("Giang")
+    x = Phi(x)
+print(Phi(5))
+    
